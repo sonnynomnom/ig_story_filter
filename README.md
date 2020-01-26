@@ -19,4 +19,6 @@ v2.0:
 - sound?
 - filter icon
 - language choice (added lolcode, 
-- 
+
+
+submit for review
