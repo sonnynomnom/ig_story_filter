@@ -3,10 +3,10 @@ asdf
 
 research:
 
-- Which Disney character are you? from [asdf](www.asfd.com)
-- What Pokemon? from [hughesp1](https://www.instagram.com/hughesp1) (Sound) 5 sec
-- Which Simpson? from [hughesp1](https://www.instagram.com/hughesp1) (Sound) 5 sec
-- Which emoji are you? from [hughesp1](https://www.instagram.com/hughesp1) (No sound) 3 sec (face animation)
+- **Which Disney ?** from [arnopartissimo](https://www.instagram.com/arnopartissimo) (No sound) 5 sec
+- **What Pokemon?** from [hughesp1](https://www.instagram.com/hughesp1) (Sound) 5 sec
+- **Which Simpson?** from [hughesp1](https://www.instagram.com/hughesp1) (Sound) 5 sec
+- **Which emoji are you?** from [hughesp1](https://www.instagram.com/hughesp1) (No sound) 3 sec (face animation)
 
 v1.0:
 
