@@ -3,7 +3,7 @@ asdf
 
 research:
 
-- **Which Disney ?** from [arnopartissimo](https://www.instagram.com/arnopartissimo) (No sound) 5 sec
+- **Which Disney ?** from [arnopartissimo](https://www.instagram.com/arnopartissimo) (No sound) 4 sec
 - **What Pokemon?** from [hughesp1](https://www.instagram.com/hughesp1) (Sound) 5 sec
 - **Which Simpson?** from [hughesp1](https://www.instagram.com/hughesp1) (Sound) 5 sec
 - **Which emoji are you?** from [hughesp1](https://www.instagram.com/hughesp1) (No sound) 3 sec (face animation)
