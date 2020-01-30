@@ -35,6 +35,7 @@ submit for review
 1/30/2020:
 
 - Effect not approved
+![Effect not approved](not_approved.png)
 
 v2.1
 -
