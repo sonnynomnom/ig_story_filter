@@ -1,4 +1,4 @@
-# "Programming Language" Effect
+# "Programming Language" IG Effect
 
 Creators:
 - Sonny Li
@@ -14,12 +14,10 @@ Research:
 | Which emoji are you? | [hughesp1](https://www.instagram.com/hughesp1) | 3 sec | No | Yes |
 
 v1.0:
-
+- 
 
 v1.1:
-
 - new
-
 
 
 v2.0:
@@ -36,3 +34,4 @@ submit for review
 1/30/2020:
 
 - Effect not approved
+- Effect resubmitted
