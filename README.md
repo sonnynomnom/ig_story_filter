@@ -14,20 +14,14 @@
 v1.0:
 - 
 
+- 
+
 v1.1:
 -
 
-
-
-
-v2.0:
--
-
-- name of filter
-- slow down animation?
-- sound?
+- name of filter: "Programming Language"
 - Added effect icon
-- language choice (added lolcode, fortran)
+- Added language choice (added lolcode, fortran)
 
 
 submit for review
@@ -37,7 +31,7 @@ submit for review
 - Effect not approved
 ![Effect not approved](not_approved.png)
 
-v2.1
+v1.2
 -
 
 - Changed "Question" image and took out "(tap to start)"
