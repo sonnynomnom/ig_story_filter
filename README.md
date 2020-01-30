@@ -1,4 +1,4 @@
-# "Which programming language are you?" Instagram Story Effect
+# "Programming Language" Effect
 
 Creators:
 - Sonny Li
