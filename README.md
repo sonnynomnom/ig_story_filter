@@ -41,5 +41,5 @@ v2.1
 -
 
 - Changed "Question" image and took out "(tap to start)"
-- Added video recording and delay patch
+- Took out `tap screen` and added `Delay` Added video recording and delay patch
 - Resubmit effect
