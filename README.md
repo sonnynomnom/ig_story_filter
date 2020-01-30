@@ -1,4 +1,4 @@
-# ig_story_filter
+# "Which programming language are you?" Instagram Story Effect
 
 Creators:
 - Sonny Li
