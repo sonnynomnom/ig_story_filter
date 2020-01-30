@@ -26,7 +26,7 @@ v2.0:
 - name of filter
 - slow down animation?
 - sound?
-- filter icon
+- Added effect icon
 - language choice (added lolcode, fortran)
 
 
@@ -42,4 +42,4 @@ v2.1
 
 - Changed "Question" image and took out "(tap to start)"
 - Added video recording and delay patch
-- Effect resubmitted
+- Resubmit effect
