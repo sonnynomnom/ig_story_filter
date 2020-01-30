@@ -1,5 +1,8 @@
 # ig_story_filter
-asdf
+
+Creators:
+- Sonny Li
+- Can Chu
 
 Research:
 
@@ -9,11 +12,6 @@ Research:
 | What Pokemon? | [hughesp1](https://www.instagram.com/hughesp1) |   5 sec | Yes | asdf |
 | Which Simpson? | [hughesp1](https://www.instagram.com/hughesp1) |  5 sec | Yes | asdf |
 | Which emoji are you? | [hughesp1](https://www.instagram.com/hughesp1) | 3 sec | No | Yes |
-
-- **Which Disney ?** from [arnopartissimo](https://www.instagram.com/arnopartissimo) (No sound) 4 sec
-- **What Pokemon?** from [hughesp1](https://www.instagram.com/hughesp1) (Sound) 5 sec
-- **Which Simpson?** from [hughesp1](https://www.instagram.com/hughesp1) (Sound) 5 sec
-- **Which emoji are you?** from [hughesp1](https://www.instagram.com/hughesp1) (No sound) 3 sec (face animation)
 
 v1.0:
 
