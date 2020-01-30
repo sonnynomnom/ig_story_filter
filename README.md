@@ -6,11 +6,11 @@ Creators:
 
 Research:
 
-| Effect       | Creator         | Random Duration  | Sound |  Facial Animation
-| ------------- |:-------------:| -----:| --- | --- |
-| Which Disney? | [arnopartissimo](https://www.instagram.com/arnopartissimo) | 4 sec | No | asdf |
-| What Pokemon? | [hughesp1](https://www.instagram.com/hughesp1) |   5 sec | Yes | asdf |
-| Which Simpson? | [hughesp1](https://www.instagram.com/hughesp1) |  5 sec | Yes | asdf |
+| Effect       | Creator         | Random | Sound | Facial Animation
+| ------------- |:-------------:|:---:|:---:|:---:|
+| Which Disney? | [arnopartissimo](https://www.instagram.com/arnopartissimo) | 4 sec | No |  |
+| What Pokemon? | [hughesp1](https://www.instagram.com/hughesp1) |   5 sec | Yes |  |
+| Which Simpson? | [hughesp1](https://www.instagram.com/hughesp1) |  5 sec | Yes | |
 | Which emoji are you? | [hughesp1](https://www.instagram.com/hughesp1) | 3 sec | No | Yes |
 
 v1.0:
