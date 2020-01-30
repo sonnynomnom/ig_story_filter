@@ -1,8 +1,8 @@
 # "Programming Language" IG Effect
 
-**Creators:** Sonny Li & Can Chu (Codecademy)
+**Creators:** Sonny Li & Can Chu
 
-Research:
+**Research:**
 
 | Effect       | Creator         | Random | Sound | Facial Animation
 | ------------- |:-------------:|:---:|:---:|:---:|
