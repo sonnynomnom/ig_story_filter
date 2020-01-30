@@ -39,5 +39,7 @@ submit for review
 
 v2.1
 -
-- Effect resubmitted
+
+- Changed "Question" image and took out "(tap to start)"
 - Added video recording and delay patch
+- Effect resubmitted
