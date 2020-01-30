@@ -3,8 +3,8 @@
 Creators:
 -
 
-- Sonny Li
-- Can Chu
+- Sonny Li, Senior Curriculum Developer
+- Can Chu, Brand Designer
 
 Research:
 -
