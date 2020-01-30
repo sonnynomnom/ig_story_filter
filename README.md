@@ -15,10 +15,13 @@ v1.0:
 - 
 
 v1.1:
-- new
+-
+
+
 
 
 v2.0:
+-
 
 - name of filter
 - slow down animation?
@@ -32,4 +35,8 @@ submit for review
 1/30/2020:
 
 - Effect not approved
+
+v2.1
+-
 - Effect resubmitted
+- Added video recording and delay patch
