@@ -26,7 +26,7 @@ v2.0:
 - slow down animation?
 - sound?
 - filter icon
-- language choice (added lolcode, 
+- language choice (added lolcode, fortran)
 
 
 submit for review
