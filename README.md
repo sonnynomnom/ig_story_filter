@@ -1,8 +1,6 @@
 # "Programming Language" IG Effect
 
-Creators:
-- Sonny Li
-- Can Chu
+Creators: Sonny Li & Can Chu (Codecademy)
 
 Research:
 
