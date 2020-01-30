@@ -5,10 +5,10 @@ research:
 
 | Effect       | Creator         | Random Duration  | Sound |  Facial Animation
 | ------------- |:-------------:| -----:| --- |
-| Which Disney? | [arnopartissimo](https://www.instagram.com/arnopartissimo) | 4 sec | No | - |
-| What Pokemon? | [hughesp1](https://www.instagram.com/hughesp1) |   5 sec | Yes | - |
-| Which Simpson? | [hughesp1](https://www.instagram.com/hughesp1) |  Yes | 5 sec
-| Which emoji are you? | [hughesp1](https://www.instagram.com/hughesp1) | No | 3 sec
+| Which Disney? | [arnopartissimo](https://www.instagram.com/arnopartissimo) | 4 sec | No | asdf |
+| What Pokemon? | [hughesp1](https://www.instagram.com/hughesp1) |   5 sec | Yes | asdf |
+| Which Simpson? | [hughesp1](https://www.instagram.com/hughesp1) |  5 sec | Yes | asdf |
+| Which emoji are you? | [hughesp1](https://www.instagram.com/hughesp1) | 3 sec | No | Yes |
 
 - **Which Disney ?** from [arnopartissimo](https://www.instagram.com/arnopartissimo) (No sound) 4 sec
 - **What Pokemon?** from [hughesp1](https://www.instagram.com/hughesp1) (Sound) 5 sec
